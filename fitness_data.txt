@@ -1,0 +1,8 @@
+Name: jayasindhu
+Age: 21
+BMI: 2.2
+Steps: 556
+Water Intake: 5.0 liters
+Exercise Time: 56 minutes
+Calories Burned: 22.240000000000002
+------------------------------
